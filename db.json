@@ -1,0 +1,102 @@
+{
+  "sprints": [
+    {
+      "id": 1,
+      "sprint_name": "Sprint 1",
+      "description": "Gathering user requirements",
+      "tasksDue":"75",
+      "tasksOverdue":"115",
+      "tasksLWD":"15"
+    },
+    {
+      "id": 2,
+      "sprint_name": "Sprint 2",
+      "description": "Identifying use cases",
+      "tasksDue":"65",
+      "tasksOverdue":"25",
+      "tasksLWD":"5"
+    },
+    {
+      "id": 3,
+      "sprint_name": "Sprint 3",
+      "description": "Modelling components",
+      "tasksDue":"75",
+      "tasksOverdue":"45",
+      "tasksLWD":"64"
+    }
+  ],
+  "tasks" : [
+    {
+      "id":1,
+      "name":"Login component",
+      "assignedTo": "John Doe", 
+      "start": "19-11-2019",
+      "end": "25-11-2019",
+      "status":"Completed",
+      "priority":"low"
+    },
+  
+    {
+      "id":2,
+      "name":"Signup component",
+      "assignedTo": "John Doe", 
+      "start": "23-11-2019",
+      "end": "27-11-2019",
+      "status":"Pending",
+      "priority":"High"
+  },
+  {
+    "id":3,
+    "name":"Home page",
+    "assignedTo": "Adam", 
+    "start": "17-11-2019",
+    "end": "22-11-2019",
+    "status":"Pending",
+    "priority":"High"
+},
+{
+  "id":4,
+  "name":"Profile Page",
+  "assignedTo": "Adam", 
+  "start": "16-11-2019",
+  "end": "18-11-2019",
+  "status":"Completed",
+  "priority":"Medium"
+},
+{
+  "id":5,
+  "name":"RAG Chart",
+  "assignedTo": "Mary", 
+  "start": "13-11-2019",
+  "end": "18-11-2019",
+  "status":"Pending",
+  "priority":"High"
+},
+{
+  "id":6,
+  "name":"Notes Components",
+  "assignedTo": "Mary", 
+  "start": "10-11-2019",
+  "end": "13-11-2019",
+  "status":"Completed",
+  "priority":"Low"
+}
+],
+
+"projects": 
+  [{
+      "id": 1,
+      "title": "POS System",
+      "desc": "A Smart Point of Sale system for supermarkets."
+  },
+  {
+      "id":2,
+      "title": "AGILE Management System",
+      "desc": "A progress tracking software for AGILE projects."
+  },
+  {
+      "id": 3,
+      "title": "Payment Gateway",
+      "desc": "A secure payment service using BHIM UPI"
+  }]
+}

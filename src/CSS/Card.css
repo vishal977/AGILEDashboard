@@ -1,0 +1,56 @@
+.card-color
+{
+    background: #DAAD86;
+}
+
+.backColor
+{
+    background: #8D8741;
+}
+
+h3
+{
+  color: #8D8741;  
+}
+h4,h6
+{
+  color: #8D8741;  
+}
+h5
+{
+  color: #8D8741;  
+}
+
+.bodyBackground
+{
+  background: #FBEEC1
+}
+
+.setCardWidth {
+  width: 50%;
+}
+.signInCard
+{
+    margin-left: 250px;
+    margin-top: 150px;
+}
+
+.buttonColor{
+  background: #8D8741;
+}
+
+.buttonMarginRight
+{
+  margin-right: 30px;;
+}
+
+.notesButton
+{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  position: relative;
+  width: 100%;
+  height: 40px;
+  background: #8D8741;
+  cursor: pointer;
+}
